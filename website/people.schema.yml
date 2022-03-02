@@ -1,0 +1,7 @@
+version: 1
+imports: []
+schemas:
+  - id: w.template.people
+    children: []
+    title: people
+    parent: root

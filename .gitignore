@@ -4,6 +4,4 @@ build
 seeds
 .next
 pods/service-connections
-
-
-website
+.DS_Store
