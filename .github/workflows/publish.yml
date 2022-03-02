@@ -49,4 +49,4 @@ jobs:
         publish_dir: docs/
         force_orphan: true
         allow_empty_commit: true
-        #cname: example.com
+        cname: wiki.deepdesignlab.online

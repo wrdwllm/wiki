@@ -81,11 +81,11 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    assetsPrefix: /website
+    #assetsPrefix: /website
     siteHierarchies:
         - root
     writeStubs: false
-    siteUrl: https://wrdwllm.github.io
+    siteUrl: http://wiki.deepdesignlab.online
     siteRootDir: docs
     seo:
         title: Dendron
