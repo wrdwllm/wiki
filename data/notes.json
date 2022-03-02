@@ -1,0 +1,362 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1646204649702,
+      "created": 1646204649702,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "LyactzA08qnquvpWMIV4k": {
+      "id": "LyactzA08qnquvpWMIV4k",
+      "title": "Root",
+      "desc": "",
+      "updated": 1630403890900,
+      "created": 1630403890900,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "f3f825694cd113360ad596defe43d40f",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "FEKjhpoguV2IpnW3irIqe",
+        "iCvZiRK0H2gFsRr4f2yhY",
+        "6TLtTaiPLLXfB8ZTzTlH1",
+        "V2IaWnosj8Tq0pygFIKXt",
+        "kCf7pf4P2yfhFWbo3LXs3",
+        "tGUj85BXDFXmQOCcVLuF0",
+        "xzxmj2xtybxuwchax21exn9"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "xzxmj2xtybxuwchax21exn9": {
+      "fname": "admin",
+      "stub": true,
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1646204649659,
+      "created": 1646204649659,
+      "id": "xzxmj2xtybxuwchax21exn9",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "308liUNe0kj3K1Xm96xpo"
+      ],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {},
+      "title": "Admin"
+    },
+    "308liUNe0kj3K1Xm96xpo": {
+      "id": "308liUNe0kj3K1Xm96xpo",
+      "title": "Precedents",
+      "desc": "",
+      "updated": 1635120278756,
+      "created": 1635120192840,
+      "custom": {},
+      "fname": "admin.precedents",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "cbdfef837c652abce3553fc32bb05e4c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "xzxmj2xtybxuwchax21exn9",
+      "data": {}
+    },
+    "tGUj85BXDFXmQOCcVLuF0": {
+      "id": "tGUj85BXDFXmQOCcVLuF0",
+      "title": "Template",
+      "desc": "",
+      "updated": 1634645603924,
+      "created": 1634645603924,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "template",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "098a3c01d6007e1d14dd2fd031697929",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "PztMWeyttBAsffttcVjMz"
+      ],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    },
+    "PztMWeyttBAsffttcVjMz": {
+      "id": "PztMWeyttBAsffttcVjMz",
+      "title": "People",
+      "desc": "",
+      "updated": 1630408316627,
+      "created": 1630407561166,
+      "custom": {},
+      "fname": "template.people",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "6a40759083730adf456a048248af086d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "tGUj85BXDFXmQOCcVLuF0",
+      "data": {}
+    },
+    "kCf7pf4P2yfhFWbo3LXs3": {
+      "id": "kCf7pf4P2yfhFWbo3LXs3",
+      "title": "Teaching",
+      "desc": "",
+      "updated": 1646017171294,
+      "created": 1630406732558,
+      "custom": {},
+      "fname": "teaching",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "ea6ee0f9eb116b61a1474ae622808d70",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    },
+    "V2IaWnosj8Tq0pygFIKXt": {
+      "id": "V2IaWnosj8Tq0pygFIKXt",
+      "title": "Research",
+      "desc": "",
+      "updated": 1630406682423,
+      "created": 1630406682423,
+      "custom": {},
+      "fname": "research",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "a4e4c0df7716b887ddf10adb9b352915",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    },
+    "6TLtTaiPLLXfB8ZTzTlH1": {
+      "id": "6TLtTaiPLLXfB8ZTzTlH1",
+      "title": "Projects",
+      "desc": "",
+      "updated": 1646191837899,
+      "created": 1630406709815,
+      "custom": {},
+      "fname": "projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "0c06d8224aabfaaf1a67efcb1da5065c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    },
+    "iCvZiRK0H2gFsRr4f2yhY": {
+      "id": "iCvZiRK0H2gFsRr4f2yhY",
+      "title": "People",
+      "desc": "",
+      "updated": 1630406668595,
+      "created": 1630406668595,
+      "custom": {},
+      "fname": "people",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "723109083bab0b823b0d3b2abd1ecde2",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "vnPpH8G7ZmteDdOgdTv35"
+      ],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    },
+    "vnPpH8G7ZmteDdOgdTv35": {
+      "id": "vnPpH8G7ZmteDdOgdTv35",
+      "title": "Roudavski Stanislav",
+      "desc": "",
+      "updated": 1630408430336,
+      "created": 1630408430336,
+      "custom": {},
+      "fname": "people.roudavski-stanislav",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "f11a608364504dc988b44cb90fc55c71",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "iCvZiRK0H2gFsRr4f2yhY",
+      "data": {}
+    },
+    "FEKjhpoguV2IpnW3irIqe": {
+      "id": "FEKjhpoguV2IpnW3irIqe",
+      "title": "About",
+      "desc": "",
+      "updated": 1646204461336,
+      "created": 1630405692241,
+      "custom": {},
+      "fname": "about",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "fc728912d27164b7e408c5b6fb441686",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "LyactzA08qnquvpWMIV4k",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "LyactzA08qnquvpWMIV4k",
+      "title": "Root",
+      "desc": "",
+      "updated": 1630403890900,
+      "created": 1630403890900,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "website",
+        "name": "website"
+      },
+      "contentHash": "f3f825694cd113360ad596defe43d40f",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "FEKjhpoguV2IpnW3irIqe",
+        "iCvZiRK0H2gFsRr4f2yhY",
+        "6TLtTaiPLLXfB8ZTzTlH1",
+        "V2IaWnosj8Tq0pygFIKXt",
+        "kCf7pf4P2yfhFWbo3LXs3",
+        "tGUj85BXDFXmQOCcVLuF0",
+        "xzxmj2xtybxuwchax21exn9"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n"
+    }
+  ],
+  "noteIndex": {
+    "id": "LyactzA08qnquvpWMIV4k",
+    "title": "Root",
+    "desc": "",
+    "updated": 1630403890900,
+    "created": 1630403890900,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "website",
+      "name": "website"
+    },
+    "contentHash": "f3f825694cd113360ad596defe43d40f",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "FEKjhpoguV2IpnW3irIqe",
+      "iCvZiRK0H2gFsRr4f2yhY",
+      "6TLtTaiPLLXfB8ZTzTlH1",
+      "V2IaWnosj8Tq0pygFIKXt",
+      "kCf7pf4P2yfhFWbo3LXs3",
+      "tGUj85BXDFXmQOCcVLuF0",
+      "xzxmj2xtybxuwchax21exn9"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n"
+  },
+  "vaults": [
+    {
+      "fsPath": "website",
+      "name": "website"
+    }
+  ]
+}
