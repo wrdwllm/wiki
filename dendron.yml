@@ -81,9 +81,11 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    assetsPrefix: /website
     siteHierarchies:
         - root
     writeStubs: false
+    siteUrl: https://wrdwllm.github.io
     siteRootDir: docs
     seo:
         title: Dendron
